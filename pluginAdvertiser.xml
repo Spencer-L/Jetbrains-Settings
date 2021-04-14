@@ -9,47 +9,47 @@
                 <map>
                   <entry key="CLionExternalRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Custom Build Application" pluginName="CLion IDE" pluginId="com.intellij.clion" />
+                      <FeaturePluginData displayName="Custom Build Application" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CLionNativeAppRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Makefile Application" pluginName="Makefile" pluginId="com.intellij.clion-makefile" />
+                      <FeaturePluginData displayName="Makefile Application" pluginName="Makefile" pluginId="com.intellij.clion-makefile" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CLion_Remote">
                     <value>
-                      <FeaturePluginData displayName="GDB Remote Debug" pluginName="CLion IDE" pluginId="com.intellij.clion" />
+                      <FeaturePluginData displayName="GDB Remote Debug" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CMakeBoostTestRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Boost.Test" pluginName="CLion Boost.Test" pluginId="org.jetbrains.plugins.clion.test.boost" />
+                      <FeaturePluginData displayName="Boost.Test" pluginName="CLion Boost.Test" pluginId="org.jetbrains.plugins.clion.test.boost" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CMakeCatchTestRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Catch" pluginName="CLion Catch" pluginId="org.jetbrains.plugins.clion.test.catch" />
+                      <FeaturePluginData displayName="Catch" pluginName="CLion Catch" pluginId="org.jetbrains.plugins.clion.test.catch" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CMakeDoctestTestRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Doctest" pluginName="CLion Doctest" pluginId="org.jetbrains.plugins.clion.test.doctest" />
+                      <FeaturePluginData displayName="Doctest" pluginName="CLion Doctest" pluginId="org.jetbrains.plugins.clion.test.doctest" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CMakeGoogleTestRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Google Test" pluginName="CLion Google Testing and Mocking Framework" pluginId="org.jetbrains.plugins.clion.test.google" />
+                      <FeaturePluginData displayName="Google Test" pluginName="CLion Google Testing and Mocking Framework" pluginId="org.jetbrains.plugins.clion.test.google" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CMakeRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="CMake Application" pluginName="CLion IDE" pluginId="com.intellij.clion" />
+                      <FeaturePluginData displayName="CMake Application" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CTestRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="CTest Application" pluginName="CLion CTest" pluginId="org.jetbrains.plugins.clion.ctest" />
+                      <FeaturePluginData displayName="CTest Application" pluginName="CLion CTest" pluginId="org.jetbrains.plugins.clion.ctest" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ChromiumRemoteDebugType">
@@ -64,7 +64,7 @@
                   </entry>
                   <entry key="ConnectRemote">
                     <value>
-                      <FeaturePluginData displayName="Mono Remote" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName="Mono Remote" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="DatabaseScript">
@@ -74,27 +74,27 @@
                   </entry>
                   <entry key="DotNetFolderPublish">
                     <value>
-                      <FeaturePluginData displayName="Publish to folder" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName="Publish to folder" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="DotNetMsBuildPublish">
                     <value>
-                      <FeaturePluginData displayName="Publish to IIS" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName="Publish to IIS" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="DotNetProject">
                     <value>
-                      <FeaturePluginData displayName=".NET Project" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName=".NET Project" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="DotNetPublishAndUpload">
                     <value>
-                      <FeaturePluginData displayName="Publish to custom server" pluginName="Support for publishing to custom servers" pluginId="com.jetbrains.rider.publish.webDeploy" bundled="true" />
+                      <FeaturePluginData displayName="Publish to custom server" pluginName="Support for publishing to custom servers" pluginId="com.jetbrains.rider.publish.webDeploy" />
                     </value>
                   </entry>
                   <entry key="DotNetStaticMethod">
                     <value>
-                      <FeaturePluginData displayName=".NET Static Method" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName=".NET Static Method" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="FirefoxRemoteDebugType">
@@ -104,12 +104,12 @@
                   </entry>
                   <entry key="GradleAppRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Gradle Native Application" pluginName="com.intellij.clion-gradle" pluginId="com.intellij.clion-gradle" />
+                      <FeaturePluginData displayName="Gradle Native Application" pluginName="com.intellij.clion-gradle" pluginId="com.intellij.clion-gradle" bundled="true" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Gradle" pluginName="Gradle" pluginId="com.intellij.gradle" />
+                      <FeaturePluginData displayName="Gradle" pluginName="Gradle" pluginId="com.intellij.gradle" bundled="true" />
                     </value>
                   </entry>
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
@@ -119,7 +119,7 @@
                   </entry>
                   <entry key="JavaScriptNodeJsTraceType">
                     <value>
-                      <FeaturePluginData displayName="Spy-js for Node.js" pluginName="Spy-js" pluginId="spy-js" bundled="true" />
+                      <FeaturePluginData displayName="Spy-js for Node.js" pluginName="Spy-js" pluginId="spy-js" />
                     </value>
                   </entry>
                   <entry key="JavaScriptTestRunnerJest">
@@ -129,7 +129,7 @@
                   </entry>
                   <entry key="JavaScriptTestRunnerKarma">
                     <value>
-                      <FeaturePluginData displayName="Karma" pluginName="Karma" pluginId="Karma" bundled="true" />
+                      <FeaturePluginData displayName="Karma" pluginName="Karma" pluginId="Karma" />
                     </value>
                   </entry>
                   <entry key="JavaScriptTestRunnerProtractor">
@@ -139,7 +139,7 @@
                   </entry>
                   <entry key="JavaScriptTraceType">
                     <value>
-                      <FeaturePluginData displayName="Spy-js" pluginName="Spy-js" pluginId="spy-js" bundled="true" />
+                      <FeaturePluginData displayName="Spy-js" pluginName="Spy-js" pluginId="spy-js" />
                     </value>
                   </entry>
                   <entry key="JavascriptDebugType">
@@ -149,17 +149,17 @@
                   </entry>
                   <entry key="LaunchSettings">
                     <value>
-                      <FeaturePluginData displayName=".NET Launch Settings Profile" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName=".NET Launch Settings Profile" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
                     <value>
-                      <FeaturePluginData displayName="Makefile" pluginName="Makefile support" pluginId="name.kropp.intellij.makefile" />
+                      <FeaturePluginData displayName="Makefile Target" pluginName="Makefile Language" pluginId="name.kropp.intellij.makefile" bundled="true" />
                     </value>
                   </entry>
                   <entry key="NodeJSConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Node.js" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
+                      <FeaturePluginData displayName="Node.js" pluginName="Node.js" pluginId="NodeJS" />
                     </value>
                   </entry>
                   <entry key="NodeWebKit">
@@ -169,12 +169,12 @@
                   </entry>
                   <entry key="NodeunitConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
+                      <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" />
                     </value>
                   </entry>
                   <entry key="PythonConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ReactNative">
@@ -184,27 +184,27 @@
                   </entry>
                   <entry key="RiderUnitTests">
                     <value>
-                      <FeaturePluginData displayName="Unit Tests" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName="Unit Tests" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="RunExe">
                     <value>
-                      <FeaturePluginData displayName=".NET Executable" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName=".NET Executable" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="RunNativeExe">
                     <value>
-                      <FeaturePluginData displayName="Native Executable" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName="Native Executable" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="RunUnityExe">
                     <value>
-                      <FeaturePluginData displayName="Standalone Player" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" bundled="true" />
+                      <FeaturePluginData displayName="Standalone Player" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" />
                     </value>
                   </entry>
                   <entry key="ShConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
+                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
                     </value>
                   </entry>
                   <entry key="TSqltConfigurationType">
@@ -214,12 +214,12 @@
                   </entry>
                   <entry key="Tox">
                     <value>
-                      <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
                     </value>
                   </entry>
                   <entry key="UNITY_DEBUG_RUN_CONFIGURATION">
                     <value>
-                      <FeaturePluginData displayName="Attach to Unity Editor" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" bundled="true" />
+                      <FeaturePluginData displayName="Attach to Unity Editor" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
@@ -229,7 +229,7 @@
                   </entry>
                   <entry key="UwpProject">
                     <value>
-                      <FeaturePluginData displayName="UWP" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName="UWP" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="XSLT">
@@ -239,37 +239,37 @@
                   </entry>
                   <entry key="XamarinIOSProject">
                     <value>
-                      <FeaturePluginData displayName="Xamarin.iOS" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName="Xamarin.iOS" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="XamarinMacProject">
                     <value>
-                      <FeaturePluginData displayName="Xamarin.Mac" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName="Xamarin.Mac" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="com.jetbrains.cidr.embedded.customgdbserver.type">
                     <value>
-                      <FeaturePluginData displayName="Embedded GDB Server" pluginName="com.intellij.clion.embedded" pluginId="com.intellij.clion.embedded" />
+                      <FeaturePluginData displayName="Embedded GDB Server" pluginName="com.intellij.clion.embedded" pluginId="com.intellij.clion.embedded" bundled="true" />
                     </value>
                   </entry>
                   <entry key="com.jetbrains.cidr.embedded.openocd.conf.type">
                     <value>
-                      <FeaturePluginData displayName="OpenOCD Download &amp; Run" pluginName="com.intellij.clion.embedded" pluginId="com.intellij.clion.embedded" />
+                      <FeaturePluginData displayName="OpenOCD Download &amp; Run" pluginName="com.intellij.clion.embedded" pluginId="com.intellij.clion.embedded" bundled="true" />
                     </value>
                   </entry>
                   <entry key="com.jetbrains.cidr.remote.gdbserver.type">
                     <value>
-                      <FeaturePluginData displayName="Remote GDB Server" pluginName="CLion IDE" pluginId="com.intellij.clion" />
+                      <FeaturePluginData displayName="Remote GDB Server" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
                     </value>
                   </entry>
                   <entry key="cucumber.js">
                     <value>
-                      <FeaturePluginData displayName="Cucumber.js" pluginName="Cucumber.js" pluginId="cucumber-javascript" bundled="true" />
+                      <FeaturePluginData displayName="Cucumber.js" pluginName="Cucumber.js" pluginId="cucumber-javascript" />
                     </value>
                   </entry>
                   <entry key="docker-deploy">
                     <value>
-                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="docs">
@@ -294,12 +294,12 @@
                   </entry>
                   <entry key="mocha-javascript-test-runner">
                     <value>
-                      <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
+                      <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" />
                     </value>
                   </entry>
                   <entry key="tests">
                     <value>
-                      <FeaturePluginData displayName="Python tests" pluginName="Python Community Edition" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Python tests" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
                     </value>
                   </entry>
                 </map>
@@ -314,12 +314,12 @@
                 <map>
                   <entry key="Python">
                     <value>
-                      <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" bundled="true" />
                     </value>
                   </entry>
                   <entry key="buildout-python">
                     <value>
-                      <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
                     </value>
                   </entry>
                 </map>
