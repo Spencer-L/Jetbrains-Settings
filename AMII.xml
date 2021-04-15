@@ -2,13 +2,9 @@
   <component name="Plugin-Config">
     <option name="memeDisplayAnchorValue" value="TOP_CENTER" />
     <option name="memeVolume" value="74" />
-    <option name="preferredCharacters" value="1eqqgmkkt,1eqq27knl,1etvgnujp,1er57tn4c,1eqq4tjg9,1er0784af" />
+    <option name="preferredCharacters" value="1er265oqb,1eqqgmkkt,1eqq27knl,1etvgnujp,1er57tn4c,1eqq4tjg9,1er0784af" />
     <option name="preferredGenders" value="5" />
     <option name="userId" value="f2a5aab9-0e8f-4232-84f8-69f45d36d570" />
     <option name="version" value="0.8.2" />
-  </component>
-  <component name="Rider-Config">
-    <option name="userId" value="d0c50237-d3c5-4dde-9ab0-a20354759cae" />
-    <option name="version" value="0.2.1" />
   </component>
 </application>
