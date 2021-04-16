@@ -1,7 +1,8 @@
 <application>
   <component name="Plugin-Config">
+    <option name="enabledEvents" value="509" />
     <option name="memeDisplayAnchorValue" value="TOP_CENTER" />
-    <option name="memeVolume" value="74" />
+    <option name="memeVolume" value="100" />
     <option name="preferredCharacters" value="1er265oqb,1eqqgmkkt,1eqq27knl,1etvgnujp,1er57tn4c,1eqq4tjg9,1er0784af" />
     <option name="preferredGenders" value="5" />
     <option name="userId" value="f2a5aab9-0e8f-4232-84f8-69f45d36d570" />
