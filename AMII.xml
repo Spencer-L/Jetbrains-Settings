@@ -1,10 +1,9 @@
 <application>
   <component name="Plugin-Config">
-    <option name="userId" value="f2a5aab9-0e8f-4232-84f8-69f45d36d570" />
+    <option name="memeDisplayAnchorValue" value="CENTER" />
+    <option name="preferredCharacters" value="1etvgnujp,1er57tn4c,1eqq4tjg9,1er0784af,1eqq1m2r3" />
+    <option name="soundEnabled" value="false" />
+    <option name="userId" value="59b5a86a-fcff-4f36-bdb0-b9982a676073" />
     <option name="version" value="0.10.2" />
-  </component>
-  <component name="Rider-Config">
-    <option name="userId" value="d0c50237-d3c5-4dde-9ab0-a20354759cae" />
-    <option name="version" value="0.2.2" />
   </component>
 </application>
