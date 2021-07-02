@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Batch Runner" description="Runs bat files within IntelliJ" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\Spencer\IdeaProjects\Batch Foundry\Auto_Zoom.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/IdeaProjects/Batch Foundry" />
+    </exec>
+  </tool>
+</toolSet>
