@@ -1,6 +1,7 @@
 <application>
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
+      <toolchain name="Laptop MinGW" toolSetKind="MINGW" toolSetPath="C:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64" debuggerKind="CUSTOM_GDB" customGDBPath="C:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64\bin\gdb.exe" />
       <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community" debuggerKind="BUNDLED_LLDB" />
       <toolchain name="NeWSL" toolSetKind="WSL" toolSetPath="C:\Users\Spencer\AppData\Local\Microsoft\WindowsApps\ubuntu2004.exe" customCMakePath="\usr\bin\cmake" hostId="953d8400-18b9-4baa-b2ad-53caaa118f69" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
       <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64" debuggerKind="CUSTOM_GDB" customGDBPath="C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gdb.exe" />
