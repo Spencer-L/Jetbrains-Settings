@@ -10,6 +10,9 @@
       <webServer id="47b17ee9-a778-421c-ab0f-59cb0ea0405d" name="WSL (47b17ee9-a778-421c-ab0f-59cb0ea0405d)" url="http:///">
         <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="a8c36685-8c3f-47f5-b2be-4817166b6992" sshConfig="choconuke@localhost:2222 password" />
       </webServer>
+      <webServer id="5fc290f7-2669-4d33-88e1-59b238b261b3" name="Laptop (5fc290f7-2669-4d33-88e1-59b238b261b3)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="22" sshConfigId="1b712236-f632-4772-b880-949fc53a8233" sshConfig="user@localhost:22 password" />
+      </webServer>
     </option>
   </component>
 </application>
