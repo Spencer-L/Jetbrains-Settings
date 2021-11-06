@@ -1,0 +1,27 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6766367f-752e-458d-8671-3669a060c373" name="WSL (6766367f-752e-458d-8671-3669a060c373)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="a8c36685-8c3f-47f5-b2be-4817166b6992" sshConfig="choconuke@localhost:2222 password" />
+      </webServer>
+      <webServer id="953d8400-18b9-4baa-b2ad-53caaa118f69" name="NeWSL (953d8400-18b9-4baa-b2ad-53caaa118f69)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="a8c36685-8c3f-47f5-b2be-4817166b6992" sshConfig="choconuke@localhost:2222 password" />
+      </webServer>
+      <webServer id="47b17ee9-a778-421c-ab0f-59cb0ea0405d" name="WSL (47b17ee9-a778-421c-ab0f-59cb0ea0405d)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="a8c36685-8c3f-47f5-b2be-4817166b6992" sshConfig="choconuke@localhost:2222 password" />
+      </webServer>
+      <webServer id="5fc290f7-2669-4d33-88e1-59b238b261b3" name="Laptop WSL (5fc290f7-2669-4d33-88e1-59b238b261b3)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="1b712236-f632-4772-b880-949fc53a8233" sshConfig="user@localhost:2222 password" />
+      </webServer>
+      <webServer id="0127491f-115e-429f-b1c5-d72cc6abd5c1" name="NeWSL (0127491f-115e-429f-b1c5-d72cc6abd5c1)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="a8c36685-8c3f-47f5-b2be-4817166b6992" sshConfig="choconuke@localhost:2222 password" />
+      </webServer>
+      <webServer id="8977886c-2f8d-4101-aa17-21c86ac6013d" name="WSL (8977886c-2f8d-4101-aa17-21c86ac6013d)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="a8c36685-8c3f-47f5-b2be-4817166b6992" sshConfig="choconuke@localhost:2222 password" />
+      </webServer>
+      <webServer id="f69b5c08-a42b-4f89-9b92-a3ac28d465f2" name="Laptop WSL (f69b5c08-a42b-4f89-9b92-a3ac28d465f2)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="1b712236-f632-4772-b880-949fc53a8233" sshConfig="user@localhost:2222 password" />
+      </webServer>
+    </option>
+  </component>
+</application>
