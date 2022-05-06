@@ -1,8 +1,5 @@
 <application>
   <component name="Arduino Support Settings">
     <option name="authorEMail" value="spencerlin.2002@gmail.com" />
-    <boardCpuMap>
-      <entry key="uno" value="" />
-    </boardCpuMap>
   </component>
 </application>
